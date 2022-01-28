@@ -7,6 +7,12 @@ public class HelloW {
 		System.out.println("Test");
 
 		System.out.println("UK");
+		
+		System.out.println("Abc");
+
+		System.out.println("cbz");
+		
+		
 
 	}
 }
